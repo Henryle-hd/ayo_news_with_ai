@@ -1,0 +1,12 @@
+# Python virtual environment
+ai/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Other files or directories to ignore
+*.log
+*.sqlite3
+
+.env
